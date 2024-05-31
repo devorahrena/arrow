@@ -13,7 +13,7 @@ export default function App() {
         <ImageViewer imageSource={StarrySky} />
       </View>
       <Text style={{ color: '#fff'}}>
-        Hi Dio this is the title screen feel free to make it pretty!
+        Hi Devorah this is the title screen feel free to make it pretty!
       </Text>
       <View style={styles.footerContainer}>
         <Button label="log in" />
