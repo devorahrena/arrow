@@ -11,11 +11,7 @@ const StarrySky = require('../assets/arrow_background.jpeg');
 export default function Matches() {
   return (
     <View style={styles.container}>
-      <Text style={{ color: '#fff'}}>
-        matches go here
-      </Text>
-
-      <Match/>
+      <Match />
       <StatusBar style="auto" />
     </View>
   );
